@@ -49,4 +49,4 @@ Water pollution is a growing environmental concern with wide-reaching impacts:
   
 ## Progress: 
 - Created an AI Model that identifies objects (v1: https://www.youtube.com/watch?v=a7DWoUA1grI)
-- Created a 3D model of JalRakshak (v2: https://www.youtube.com/watch?v=p7BfaWVgcpA)
+- Created a 3D model of JalRakshak (v2: https://www.youtube.com/watch?v=p7BfaWVgcpA) (v1 in images)
