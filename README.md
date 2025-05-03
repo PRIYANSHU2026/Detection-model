@@ -27,7 +27,6 @@ Water pollution is a growing environmental concern with wide-reaching impacts:
 ### 3. 🔋 Hybrid Power System
 - Operates using a combination of **solar energy** and **battery backup**.
 - Enables longer and more sustainable missions.
-  [Screenshot 2025-05-03 at 4 30 13 PM](https://github.com/user-attachments/assets/fac3e08a-d7ba-4cb4-909e-1a0ed9d9a194)
 ---
 
 ## 🚀 Key Benefits
@@ -51,6 +50,3 @@ Water pollution is a growing environmental concern with wide-reaching impacts:
 ## Progress: 
 - Created an AI Model that identifies objects (v1: https://www.youtube.com/watch?v=a7DWoUA1grI)
 - Created a 3D model of JalRakshak (v2: https://www.youtube.com/watch?v=p7BfaWVgcpA)
-
-[Screenshot 2025-05-03 at 4 29 22 PM](https://github.com/user-attachments/assets/79ff0502-affd-406c-b56e-8432046e2d26)
-
